@@ -27,8 +27,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppodealIronSourceAdapter",
-            url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealIronSourceAdapter/9.6.0.0.0/37c25b1e215a/AppodealIronSourceAdapter.xcframework.zip",
-            checksum: "37c25b1e215a3312b4ea40df84912e33201400f19e7156708c8fa6c8c7c227a5"
+            url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealIronSourceAdapter/9.6.0.0.1/ead11fa92a85/AppodealIronSourceAdapter.xcframework.zip",
+            checksum: "ead11fa92a853d3735e15d4a017657eb360542dcc49643e3b34e1ec9c625caf1"
         ),
 
     ]
