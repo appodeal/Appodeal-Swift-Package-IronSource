@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/appodeal/Appodeal-Swift-Package.git", .upToNextMajor(from: "4.0.0-alpha.1")),
-        .package(url: "https://github.com/ironsource-mobile/LevelPlay-Swift-Package", exact: "9.6.0"),
+        .package(url: "https://github.com/ironsource-mobile/LevelPlay-Swift-Package", exact: "9.8.0"),
     ],
     targets: [
         .target(
@@ -27,8 +27,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppodealIronSourceAdapter",
-            url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealIronSourceAdapter/9.6.0.0.1/ead11fa92a85/AppodealIronSourceAdapter.xcframework.zip",
-            checksum: "ead11fa92a853d3735e15d4a017657eb360542dcc49643e3b34e1ec9c625caf1"
+            url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealIronSourceAdapter/9.8.0.0.0/77424308ef6c/AppodealIronSourceAdapter.xcframework.zip",
+            checksum: "77424308ef6c202bee116b2e5d8aa87443b615c7c33aa3804c8267b80dc1aec6"
         ),
 
     ]
